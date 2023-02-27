@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://mlzxkiqt:9VLUsmXQHsdVgtkctzb_pFC-KgLc1D51@peanut.db.elephantsql.com/mlzxkiqt",
+            "name": "car_dealership"
+        }
+    ]
+}
